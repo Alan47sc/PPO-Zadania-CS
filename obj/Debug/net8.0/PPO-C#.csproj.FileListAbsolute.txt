@@ -1,0 +1,15 @@
+C:\Users\Siory\Desktop\PPO-C#\bin\Debug\net8.0\PPO-C#.exe
+C:\Users\Siory\Desktop\PPO-C#\bin\Debug\net8.0\PPO-C#.deps.json
+C:\Users\Siory\Desktop\PPO-C#\bin\Debug\net8.0\PPO-C#.runtimeconfig.json
+C:\Users\Siory\Desktop\PPO-C#\bin\Debug\net8.0\PPO-C#.dll
+C:\Users\Siory\Desktop\PPO-C#\bin\Debug\net8.0\PPO-C#.pdb
+C:\Users\Siory\Desktop\PPO-C#\obj\Debug\net8.0\PPO-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siory\Desktop\PPO-C#\obj\Debug\net8.0\PPO-C#.AssemblyInfoInputs.cache
+C:\Users\Siory\Desktop\PPO-C#\obj\Debug\net8.0\PPO-C#.AssemblyInfo.cs
+C:\Users\Siory\Desktop\PPO-C#\obj\Debug\net8.0\PPO-C#.csproj.CoreCompileInputs.cache
+C:\Users\Siory\Desktop\PPO-C#\obj\Debug\net8.0\PPO-C#.sourcelink.json
+C:\Users\Siory\Desktop\PPO-C#\obj\Debug\net8.0\PPO-C#.dll
+C:\Users\Siory\Desktop\PPO-C#\obj\Debug\net8.0\refint\PPO-C#.dll
+C:\Users\Siory\Desktop\PPO-C#\obj\Debug\net8.0\PPO-C#.pdb
+C:\Users\Siory\Desktop\PPO-C#\obj\Debug\net8.0\PPO-C#.genruntimeconfig.cache
+C:\Users\Siory\Desktop\PPO-C#\obj\Debug\net8.0\ref\PPO-C#.dll
