@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPO-C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c25614e3c18758dc9510c4b378da009533e50714")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91c35ade398bc5e1c7a82b1397fc32d4f3028067")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPO-C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPO-C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
